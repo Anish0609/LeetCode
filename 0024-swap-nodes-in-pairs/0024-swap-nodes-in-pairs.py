@@ -18,7 +18,7 @@ class Solution:
         if head==None :
             return head
             
-        left=head #l=lrft & r=right & pl=prevleft
+        left=head 
         prevleft=None
         res=None
         size=2
