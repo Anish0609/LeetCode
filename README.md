@@ -33,10 +33,15 @@ Each solution is organized by problem name and includes clean, optimized code.
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Anish0609/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Anish0609/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Anish0609/LeetCode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Anish0609/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Anish0609/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Anish0609/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Anish0609/LeetCode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
