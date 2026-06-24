@@ -44,4 +44,12 @@ Each solution is organized by problem name and includes clean, optimized code.
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Anish0609/LeetCode/tree/master/0061-rotate-list) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Anish0609/LeetCode/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Anish0609/LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
