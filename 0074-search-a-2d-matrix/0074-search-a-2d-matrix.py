@@ -5,33 +5,20 @@ class Solution:
         col=len(matrix[0])
 
         low=0
-        high=row-1
-        idx=-1
+        high=(row*col)-1
 
         while low<=high :
             guess=(low+high)//2
 
-            if matrix[guess][0]<=target<=matrix[guess][col-1] :
-                idx=guess
-                break
-            elif matrix[guess][col-1]<target :
-                low=guess+1
-            else :
-                high=guess-1
-            
-        if idx==-1 :
-            return False
-        
-        low=0
-        high=col-1
+            x=guess//col
+            y=guess%col
 
-        while low<=high :
-            guess=(low+high)//2
-
-            if matrix[idx][guess]==target :
+            if matrix[x][y]==target :
                 return True
-            elif matrix[idx][guess]<target :
+            elif matrix[x][y]<target :
                 low=guess+1
             else :
                 high=guess-1
+        
         return False
+            
