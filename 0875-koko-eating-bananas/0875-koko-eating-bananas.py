@@ -1,5 +1,15 @@
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
+        def eatingTime (speed):
+            et=0
+            for i in piles :
+                t = 0
+                t=(i//speed)
+                if i%speed!=0 :
+                    t+=1
+                et=et+t
+            return et
+        
         low=high=1
         res=-1
 
@@ -9,14 +19,7 @@ class Solution:
         while low<=high :
             guess=(low+high)//2
 
-            et=0
-            for i in piles :
-                t = 0
-                t=(i//guess)
-    
-                if i%guess!=0 :
-                    t+=1
-                et=et+t
+            et=eatingTime(guess)
             
             if et>h :
                 low=guess+1
