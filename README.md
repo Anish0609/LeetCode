@@ -91,6 +91,7 @@ Each solution is organized by problem name and includes clean, optimized code.
 | [0347-top-k-frequent-elements](https://github.com/Anish0609/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anish0609/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Anish0609/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Anish0609/LeetCode/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Each solution is organized by problem name and includes clean, optimized code.
 | [0347-top-k-frequent-elements](https://github.com/Anish0609/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anish0609/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Anish0609/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Anish0609/LeetCode/tree/master/0767-reorganize-string) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +114,7 @@ Each solution is organized by problem name and includes clean, optimized code.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anish0609/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Anish0609/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Anish0609/LeetCode/tree/master/0767-reorganize-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -122,12 +125,18 @@ Each solution is organized by problem name and includes clean, optimized code.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anish0609/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Anish0609/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Anish0609/LeetCode/tree/master/0767-reorganize-string) |
 ## String
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Anish0609/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Anish0609/LeetCode/tree/master/0767-reorganize-string) |
 ## Trie
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Anish0609/LeetCode/tree/master/0692-top-k-frequent-words) |
+## Greedy
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/Anish0609/LeetCode/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
