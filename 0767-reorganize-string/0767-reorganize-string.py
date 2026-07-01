@@ -20,31 +20,20 @@ class Solution:
         for lett , freq in f.items() :
             heapq.heappush(heap, Pair(freq, lett))
         
+        prev=None
         while heap :
-            p=heapq.heappop(heap)
-            letter=p.lett
+            curr=heapq.heappop(heap)
+            
+            res.append(curr.lett)
+            curr.freq-=1
 
-            if seat==0 or res[seat-1]!=letter :
-                res.append(letter)
-                seat+=1
-                p.freq-=1
-                if p.freq>0 :
-                    heapq.heappush(heap, p)
-
-            else :
-                if not heap :
-                    return ""
-                else :
-                    p1=heapq.heappop(heap)
-                    letter=p1.lett
-                    res.append(letter)
-                    seat+=1
-                    p1.freq-=1
-                    if p1.freq>0 :
-                        heapq.heappush(heap, p1)
-                    if p.freq>0 :
-                        heapq.heappush(heap, p)
-        
+            if prev and prev.freq>0 :
+                heapq.heappush(heap, prev)
+            
+            prev=curr
+            
+        if len(res)<len(s) :
+            return ""
         return "".join(res)
     
 
