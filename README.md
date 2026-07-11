@@ -55,6 +55,7 @@ Each solution is organized by problem name and includes clean, optimized code.
 | [0240-search-a-2d-matrix-ii](https://github.com/Anish0609/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Anish0609/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anish0609/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/Anish0609/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Anish0609/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Anish0609/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anish0609/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -90,6 +91,7 @@ Each solution is organized by problem name and includes clean, optimized code.
 | [0215-kth-largest-element-in-an-array](https://github.com/Anish0609/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Anish0609/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anish0609/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/Anish0609/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Anish0609/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Anish0609/LeetCode/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
@@ -98,6 +100,7 @@ Each solution is organized by problem name and includes clean, optimized code.
 | [0215-kth-largest-element-in-an-array](https://github.com/Anish0609/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Anish0609/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anish0609/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/Anish0609/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Anish0609/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Anish0609/LeetCode/tree/master/0767-reorganize-string) |
 ## Math
@@ -113,6 +116,7 @@ Each solution is organized by problem name and includes clean, optimized code.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anish0609/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Anish0609/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Anish0609/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Anish0609/LeetCode/tree/master/0767-reorganize-string) |
 ## Bucket Sort
@@ -124,6 +128,7 @@ Each solution is organized by problem name and includes clean, optimized code.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anish0609/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Anish0609/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Anish0609/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Anish0609/LeetCode/tree/master/0767-reorganize-string) |
 ## String
@@ -138,5 +143,6 @@ Each solution is organized by problem name and includes clean, optimized code.
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Anish0609/LeetCode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Anish0609/LeetCode/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
