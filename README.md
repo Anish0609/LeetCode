@@ -40,6 +40,7 @@ Each solution is organized by problem name and includes clean, optimized code.
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Anish0609/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Anish0609/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0509-fibonacci-number](https://github.com/Anish0609/LeetCode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,6 +107,7 @@ Each solution is organized by problem name and includes clean, optimized code.
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Anish0609/LeetCode/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Anish0609/LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Quickselect
 |  |
@@ -145,4 +147,12 @@ Each solution is organized by problem name and includes clean, optimized code.
 | ------- |
 | [0621-task-scheduler](https://github.com/Anish0609/LeetCode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Anish0609/LeetCode/tree/master/0767-reorganize-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Anish0609/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Anish0609/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
