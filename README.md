@@ -136,6 +136,7 @@ Each solution is organized by problem name and includes clean, optimized code.
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Anish0609/LeetCode/tree/master/0022-generate-parentheses) |
 | [0692-top-k-frequent-words](https://github.com/Anish0609/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Anish0609/LeetCode/tree/master/0767-reorganize-string) |
 ## Trie
@@ -150,9 +151,14 @@ Each solution is organized by problem name and includes clean, optimized code.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Anish0609/LeetCode/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/Anish0609/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Anish0609/LeetCode/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Anish0609/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
